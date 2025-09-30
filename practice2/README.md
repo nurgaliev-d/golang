@@ -42,7 +42,7 @@ practice2/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/nurgaliev-d/golang/tree/practice2-branch
+   git clone https://github.com/nurgaliev-d/golang/tree/practice2
    cd practice2
    ```
 
