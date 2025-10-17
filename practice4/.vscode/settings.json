@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5430,
+            "driver": "PostgreSQL",
+            "name": "Practice4-Postgres",
+            "database": "mydatabase",
+            "username": "user",
+            "password": "password"
+        }
+    ]
+}
